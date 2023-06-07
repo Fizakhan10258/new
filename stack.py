@@ -18,7 +18,7 @@ for i in my_stack:
 print("\n")    
 
 ### deleting element from the stack
-
+### deleted
 for i in range(0,len(my_stack)):
     my_stack.pop()
     for i in my_stack:
